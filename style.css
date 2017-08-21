@@ -1,0 +1,83 @@
+
+#selectcolor{
+    height:30px;
+    width: 220px;
+    background-color: lightcyan;
+    border: 10px solid lightcyan;
+
+}
+
+#currentcolorblock{
+    height:30px;
+    width: 220px;
+    background-color: lightcyan;
+    border: 10px solid lightcyan;
+
+}
+
+.colorselect{
+    height: 20px;
+    width: 20px;
+    border: 1px solid lightgrey;
+    float: left;
+}
+#blue{
+    background: blue;
+}
+
+#red{
+    background: red;
+}
+
+#green{
+    background: green;
+}
+
+#yellow{
+    background: yellow;
+}
+
+#violet{
+    background: violet;
+}
+
+#black{
+    background: black;
+}
+
+#orange{
+    background: orange;
+}
+
+#white{
+    background: white;
+}
+
+#pink{
+    background: pink;
+}
+
+#maroon{
+    background: maroon;
+}
+
+
+
+#grid {
+    width: 220px;
+    height:220px;
+    background-color: lightcyan;
+    border: 10px solid lightcyan;
+}
+
+.square{
+    height: 20px;
+  width: 20px;
+  background-color: white;
+  border: 1px solid lightgrey;
+  float: left;
+}
+
+h1 {
+    color: blue;
+}
